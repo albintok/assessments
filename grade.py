@@ -1,4 +1,5 @@
-import file3 as pd
+import pandas as pd
+import numpy as np
 
 # List1
 lst = [['Geek', 25], ['is', 30],
